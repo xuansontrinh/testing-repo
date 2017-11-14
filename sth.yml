@@ -1,3 +1,4 @@
 BASE_BRANCHES=master
 W=1
 X=2
+A = 3
