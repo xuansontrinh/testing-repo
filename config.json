@@ -1,3 +1,3 @@
 {
-  "BASE_BRANCHES": "master, development, nothing"
+  "BASE_BRANCHES": "master"
 }
