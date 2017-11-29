@@ -1,3 +1,7 @@
 {
-  "BASE_BRANCHES": "master, development"
+  "BASE_BRANCHES": "master, development",
+  "DEPRECATED_FILES": [
+    "tf/something.txt",
+    "tf/a.txt"
+  ]
 }
