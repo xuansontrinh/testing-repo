@@ -1,7 +1,7 @@
 {
   "BASE_BRANCHES": "master, development",
   "TEAMLEAD_REQUIRED_FILES": [
-    "tf/"
+    "tf/*"
   ],
   "SENIOR_REQUIRED_FILES": [
     "tr/something.txt"
