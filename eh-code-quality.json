@@ -4,7 +4,10 @@
     "development"
   ],
   "TEAMLEAD_REQUIRED_FILES": [
-    "tf/*"
+    {
+      "PATH": "tf/*",
+      "MODE": "EXCLUDE"
+    }
   ],
   "SENIOR_REQUIRED_FILES": [
     "tr/something.txt"
