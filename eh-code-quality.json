@@ -8,10 +8,7 @@
       "PATH": "tr/*",
       "MODE": "EXCLUDE"
     },
-    {
-      "PATH": "tr/demo.txt",
-      "MODE": "INCLUDE"
-    }
+    "tr/demo.txt"
   ],
   "SENIOR_REQUIRED_FILES": [
     "tr/something.txt"
