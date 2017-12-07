@@ -8,7 +8,6 @@
       "PATH": "tr/*",
       "MODE": "EXCLUDE"
     },
-    "tr/demo.txt"
   ],
   "SENIOR_REQUIRED_FILES": [
     "tr/something.txt"
@@ -16,5 +15,8 @@
   "DEFAULT_REQUIREMENTS": {
     "PEER": 2,
     "SENIOR": 1
-  }
+  },
+  "SKIPPED_FILES": [
+    "tr/demo.txt"
+  ]
 }
