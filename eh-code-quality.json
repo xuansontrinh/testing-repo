@@ -5,7 +5,7 @@
   ],
   "TEAMLEAD_REQUIRED_FILES": [
     {
-      "PATH": "tf/*",
+      "PATH": "tr/*",
       "MODE": "EXCLUDE"
     }
   ],
