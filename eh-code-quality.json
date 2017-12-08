@@ -8,7 +8,15 @@
       "NAME": "BACKEND_READY",
       "REQUEST_CHANGE": "Need to check if the backend is ready or you have flag to restrict access your front-end.",
       "CONTENT": "Is your backend ready? Or do you have flag to restrict access your front-end?",
-      "CHECKED_BY": "OWNER"
+      "CHECKED_BY": "OWNER",
+      "PATTERN": ""
+    },
+    {
+      "NAME": "SNAPSHOT_UPLOAD",
+      "REQUEST_CHANGE": "Need to check if snapshots uploaded.",
+      "CONTENT": "Have you uploaded snapshots in large and medium size, if this PR contains UI change (jsx and haml)?",
+      "CHECKED_BY": "REVIEWER",
+      "PATTERN": "/\\.(jsx|haml|js)$/"
     }
   ],
   "SKIPPED_FILES": [
