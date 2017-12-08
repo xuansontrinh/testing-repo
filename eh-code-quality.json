@@ -2,13 +2,15 @@
   "BASE_BRANCHES": [
     "master", 
     "development"
+  ]
+  "CHECK_BOXES": [
+    {
+      "NAME": "BACKEND_READY"
+      "REQUEST_CHANGE": "Need to check if the backend is ready or you have flag to restrict access your front-end.",
+      "CONTENT": "Is your backend ready? Or do you have flag to restrict access your front-end?",
+      "CHECKED_BY": "OWNER"
+    }
   ],
-  "SNAPSHOT_CHECKED" : true,
-  "CHECKBOX": {
-    "REQUEST_CHANGE": "Need to check if the backend is ready or you have flag to restrict access your front-end.",
-    "CONTENT": "Is your backend ready? Or do you have flag to restrict access your front-end?",
-    "CHECKED_BY": "OWNER"
-  },
   "SKIPPED_FILES": [
     "tr/demo.txt"
   ],
